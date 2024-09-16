@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey Ya'll 👋
 
 <!--
 **bjones18/bjones18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
