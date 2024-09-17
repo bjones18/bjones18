@@ -2,7 +2,7 @@
 <!-- Insert Image of myself here or cool banner --> 
 
 My name is Brianna Jones, and I am so glad you decided to hop onto my page to check out my work! While I’m still in the early stages of my journey and learning the ropes, I firmly believe that what I don’t know now is simply a matter of "not yet.". 
-With that mini introduction out of the way let me walk you through what I've been working on.:relaxed:
+With that mini introduction out of the way let me walk you through what I've been working on. :relaxed:
 
 ## My Projects 
 
