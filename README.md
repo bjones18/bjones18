@@ -14,7 +14,7 @@ With that mini introduction out of the way let me walk you through what I've bee
 
 
 ## About Me
-:EMOJICODE: 
+ 
 
 <!--
 **bjones18/bjones18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
