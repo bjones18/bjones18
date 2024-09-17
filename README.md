@@ -5,6 +5,7 @@ My name is Brianna Jones, and I am so glad you decided to hop onto my page to ch
 With that mini introduction out of the way let me walk you through what I've been working on.
 
 ## My Projects 
+
 * Is This Legit? - My Master's Capstone project that utilizes different machine learning models to determine if an email is a phishing scam solely on the text of the email. This was my first project that helped me obtain hands on experience with ML and R. 
 
 * PIXLEY - (**passion project _in the works_**) a virtual AI desktop assitant that sits as a mod on your laptop screen used to monitor and encourage students while they work onlne. It's primary purpose is to monitor chat logs kids have through text and social media and be on the look for any predatory/graphic language. If there is any predatory language detected the prorgam will take a screenshot of the chat logs, store them in a shared folder (read only permissions), and alert parents of activity. This is to help provide early intervention for children and teens as well as help parents be more involved with their children's online presence.
