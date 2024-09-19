@@ -6,7 +6,7 @@ With that mini introduction out of the way let me walk you through what I've bee
 
 ## My Projects 
 
-* **Should I Read This?** - My Master's Capstone project that utilizes different machine learning models to determine if an email is a phishing scam solely on the text of the email. This was my first project that helped me obtain hands on experience with ML and R. 
+* **Should I Read This?** - (**completed**) My Master's Capstone project that utilizes different machine learning models to determine if an email is a phishing scam solely on the text of the email. This was my first project that helped me obtain hands on experience with ML and R. 
 
 * **PIXLEY** - (**passion project _in the works_**) a virtual AI assistant sits as a mod on your laptop screen, monitoring and encouraging students while they work online. Its main job is to track text and social media chats, looking for predatory or inappropriate language. If such language is detected, the program takes a screenshot, saves it in a read-only shared folder, and alerts parents. This tool aims to support early intervention for children and teens while helping parents stay involved in their kids' online activity.
 
