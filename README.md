@@ -32,7 +32,7 @@ With that mini introduction out of the way let me walk you through what I've bee
 * 💎 Fun fact: My family and I have rescued, fostered, and run a dog-watching business since I was 12.
 
 
-                 ![new git image](https://github.com/user-attachments/assets/c46637e2-c982-4aed-9a56-c070fce4f94b)
+![new git image](https://github.com/user-attachments/assets/c46637e2-c982-4aed-9a56-c070fce4f94b)
   
 
 
