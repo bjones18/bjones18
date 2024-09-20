@@ -4,7 +4,7 @@ My name is Brianna Jones, and I am so glad you decided to hop onto my page to ch
 With that mini introduction out of the way let me walk you through what I've been working on. :relaxed:
 
 
-![20220104_085451_capture](https://github.com/user-attachments/assets/42e84194-e65b-4fdf-8549-27a7535ff97e)
+![new git image](https://github.com/user-attachments/assets/cbeec6a7-6a63-47ca-b096-f27d92c176b3)
 
 
 ## My Projects 
