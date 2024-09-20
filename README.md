@@ -4,9 +4,6 @@ My name is Brianna Jones, and I am so glad you decided to hop onto my page to ch
 With that mini introduction out of the way let me walk you through what I've been working on. :relaxed:
 
 
-![new git image](https://github.com/user-attachments/assets/cbeec6a7-6a63-47ca-b096-f27d92c176b3)
-
-
 ## My Projects 
 
 * **Should I Read This?** - (**completed**) My Master's Capstone project that utilizes different machine learning models to determine if an email is a phishing scam solely on the text of the email. This was my first project that helped me obtain hands on experience with ML and R. 
