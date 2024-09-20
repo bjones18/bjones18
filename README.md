@@ -33,8 +33,7 @@ With that mini introduction out of the way let me walk you through what I've bee
 
 
 
-  
-![new git image](https://github.com/user-attachments/assets/f6ae6597-ab80-4e8b-8af4-32e41df013b7)
+![20220104_085451_capture](https://github.com/user-attachments/assets/5033f6e3-49c0-45ab-a201-e6a7fd0924c6)
 
 
 
