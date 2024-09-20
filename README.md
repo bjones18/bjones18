@@ -3,9 +3,6 @@
 My name is Brianna Jones, and I am so glad you decided to hop onto my page to check out my work! While I’m still in the early stages of my journey and learning the ropes, I firmly believe that what I don’t know now is simply a matter of "not yet.". 
 With that mini introduction out of the way let me walk you through what I've been working on. :relaxed:
 
-![new git image](https://github.com/user-attachments/assets/8183dc1e-7c6d-48ac-81b8-c5a4328110da)
-
-
 
 ## My Projects 
 
@@ -33,6 +30,10 @@ With that mini introduction out of the way let me walk you through what I've bee
 * ⚡ My job experience has been the following. I went from a retail clerk -> dance shoe fitter -> co-owner of a soap company -> dance teacher -> office manager -> freelance use-of-force coder -> Infosec Student Assitant. Most occuring at the same time, even while in school 😂
 
 * 💎 Fun fact: My family and I have rescued, fostered, and run a dog-watching business since I was 12.
+
+
+                 ![new git image](https://github.com/user-attachments/assets/c46637e2-c982-4aed-9a56-c070fce4f94b)
+  
 
 
 
