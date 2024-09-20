@@ -15,21 +15,21 @@ With that mini introduction out of the way let me walk you through what I've bee
 
 ## About Me
  
-🌆 I currently live and have been a Dallas resident my whole life! I love our dynamic art and food culture even though the traffic on I-35 can be bit challenging. 
+* 🌆 I currently live and have been a Dallas resident my whole life! I love our dynamic art and food culture even though the traffic on I-35 can be bit challenging. 
 
-💻 What made me interested in cyber/technology? As an elder genz I grew up with the internet (no, I am not an Ipad kid) like watching videos on YouTube, playing games, and talking to my friends about the latest memes when we weren't playing imagination outside. Well, one of my favorite Youtubers to watch was MatPat from Game Theory and he just released his own show called Game Lab. A fun show where gamers were challenged to play their favorite games in real life, taking gaming mechanics from the virtual to the real world. One episode in particular was based off of Watch Dogs 2 and it was all about **hacking**. I was hooked! From there I wanted to know everything about hacking, cyberspace, and cybersecurity. It sparked an inner curiosity that later ignited into a passion, especially after seeing people I care about fall victim to cybercrime. Since then I have, as my mentor put it, filling the buckets. 
+* 💻 What made me interested in cyber/technology? As an elder genz I grew up with the internet (no, I am not an Ipad kid) like watching videos on YouTube, playing games, and talking to my friends about the latest memes when we weren't playing imagination outside. Well, one of my favorite Youtubers to watch was MatPat from Game Theory and he just released his own show called Game Lab. A fun show where gamers were challenged to play their favorite games in real life, taking gaming mechanics from the virtual to the real world. One episode in particular was based off of Watch Dogs 2 and it was all about **hacking**. I was hooked! From there I wanted to know everything about hacking, cyberspace, and cybersecurity. It sparked an inner curiosity that later ignited into a passion, especially after seeing people I care about fall victim to cybercrime. Since then I have, as my mentor put it, filling the buckets. 
 
-🎓 career path: I have just graduated college and am excited to get the ball going! I have a lot to learn but my motto is "if there is a will, there is always a way".  
+* 🎓 career path: I have just graduated college and am excited to get the ball going! I have a lot to learn but my motto is "if there is a will, there is always a way".  
 
-😍 Interested in helping others through my church and volunteer work. I have become very passionate about human traffick prevention and aim to have my career focus to that. I also love learning and am so grateful to be apart of a community that never stops!
+* 😍 Interested in helping others through my church and volunteer work. I have become very passionate about human traffick prevention and aim to have my career focus to that. I also love learning and am so grateful to be apart of a community that never stops!
 
-🌱 I’m currently learning: Ethical Hacking, OSINT, how to self-host, and ML/AI. 
+* 🌱 I’m currently learning: Ethical Hacking, OSINT, how to self-host, and ML/AI. 
 
-❤️ It's been my grandma, my mom, and I ever since I can remeber. I love them so much and could not have been where I am without their prayers and support. We also love to travel together whether that is flying internationally or roadtripping through the great American States! 
+* ❤️ It's been my grandma, my mom, and I ever since I can remeber. I love them so much and could not have been where I am without their prayers and support. We also love to travel together whether that is flying internationally or roadtripping through the great American States! 
 
-⚡ Fun fact: My job experience has been the following I went from a retail clerk -> dance shoe fitter -> co-owner of a soap company -> dance teacher -> office manager -> freelance use-of-force coder -> Infosec Student Assitant. Most occuring at the same time, even while in school 😂
+* ⚡ Fun fact: My job experience has been the following I went from a retail clerk -> dance shoe fitter -> co-owner of a soap company -> dance teacher -> office manager -> freelance use-of-force coder -> Infosec Student Assitant. Most occuring at the same time, even while in school 😂
 
-⚡ Fun fact: My family and I have rescued, fostered, and run a dog-watching business!
+* ⚡ Fun fact: My family and I have rescued, fostered, and run a dog-watching business!
 
 
 
