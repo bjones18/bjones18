@@ -27,9 +27,10 @@ With that mini introduction out of the way let me walk you through what I've bee
 
 * ❤️ It's been my grandma, my mom, and I ever since I can remeber. I love them so much and could not have been where I am without their prayers and support. We also love to travel together whether that is flying internationally or roadtripping through the great American States! 
 
-* ⚡ Fun fact: My job experience has been the following I went from a retail clerk -> dance shoe fitter -> co-owner of a soap company -> dance teacher -> office manager -> freelance use-of-force coder -> Infosec Student Assitant. Most occuring at the same time, even while in school 😂
+* ⚡ My job experience has been the following. I went from a retail clerk -> dance shoe fitter -> co-owner of a soap company -> dance teacher -> office manager -> freelance use-of-force coder -> Infosec Student Assitant. Most occuring at the same time, even while in school 😂
 
-* ⚡ Fun fact: My family and I have rescued, fostered, and run a dog-watching business!
+* 💎 Fun fact: My family and I have rescued, fostered, and run a dog-watching business since I was 12.
+
 
 
 
